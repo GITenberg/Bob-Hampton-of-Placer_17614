@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '2217'
     url: http://www.gutenberg.org/2009/agents/2217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17614#Bob-Hampton-of-Placer
 gutenberg_issued: '2006-01-27'
 gutenberg_type: Text
 identifiers:
